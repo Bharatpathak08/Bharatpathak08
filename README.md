@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is BHARAT PATHAK.
-- 🔭 I’m currently working on Netflix clone.
+- 🔭 I’m currently working on a unique website.
 - 🌱 I’m currently learning Javascript.
 - 🤔 I’m looking for help with React JS.
 - 💬 Ask me about C,C++,Java,Fundamentals of AI/ML.
