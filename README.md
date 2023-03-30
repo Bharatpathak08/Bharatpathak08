@@ -12,16 +12,19 @@
 - 📫 How to reach me **bharat9409pathak@gmail.com**
 
 - ⚡ Fun fact **Pronouns: He/him**
-<!-- 
+
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-  <a href="https://linkedin.com/in/ankit kumar/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:bharat9409pathak@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-   <a href="https://instagram.com/code.wave"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/bharat-pathak-96237b252"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ 
+ <a href="mailto:bharat9409pathak@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  
+  <!-- 
+  <a href="https://instagram.com/code.wave"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://t.me/ankitkumar"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://discord.gg/ankit kumar"><img alt="Discord" src="https://img.shields.io/badge/Discord-1CA5E0?style=for-the-badge&logo=discord&logoColor=white" /></a>
-</div>
+</div> -->
 
 <h3 align="left">Web Tech Stack :</h3>
 <div align="left">
@@ -35,12 +38,14 @@
   
 <h3 align="left">Languages :</h3>
 <div align="left">
-  <img alt="c" src="https://img.shields.io/badge/c-%23ED8B00.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  <img alt="C" src="https://img.shields.io/badge/C-%23ED8B00.svg?style=for-the-badge&logo=C&logoColor=white"/>
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-%2314354C.svg?style=for-the-badge&logo=Java&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </div>
 
+<--
 <h3 align="left">Databases :</h3>
 <div align="left">
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
