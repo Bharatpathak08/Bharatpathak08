@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **front-end, DBMS , C,C++ , JavaScript , Java**
 
-- 📫 How to reach me **abharat9409pathak@gmail.com**
+- 📫 How to reach me **bharat9409pathak@gmail.com**
 
 - ⚡ Fun fact **Pronouns: He/him**
 <!-- 
@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <div align="left">
   <a href="https://linkedin.com/in/ankit kumar/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ankit.kumar895024@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:bharat9409pathak@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
    <a href="https://instagram.com/code.wave"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://t.me/ankitkumar"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://discord.gg/ankit kumar"><img alt="Discord" src="https://img.shields.io/badge/Discord-1CA5E0?style=for-the-badge&logo=discord&logoColor=white" /></a>
