@@ -61,6 +61,8 @@
   <img alt="Github" src="https://img.shields.io/badge/Github-00C7B5?style=for-the-badge&logo=github&logoColor=white"/>
 </div><br/>
 
+-->
+
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=kumar-ankit56&show_icons=true&theme=dark&locale=en" alt="jigar-sable" /></td>
@@ -72,7 +74,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumar-ankit56&theme=dark" alt="jigar-sable" /></p>
  </div>
  <br> 
-
+<!--  
   
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Ankit Kumar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Ankit Kumar" /></a></p><br> -->
