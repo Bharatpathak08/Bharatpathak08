@@ -17,7 +17,6 @@
 <h3 align="left">Connect with me:</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/bharat-pathak-96237b252"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
- 
  <a href="mailto:bharat9409pathak@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   
   <!-- 
@@ -45,7 +44,7 @@
   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
-<--
+<!-- 
 <h3 align="left">Databases :</h3>
 <div align="left">
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
