@@ -7,7 +7,7 @@
         
  - 🌱 I’m currently Upskilling **Backend skills**
         
- - 💬 Ask me about **Front-end, Python, DBMS , C,C++ , JavaScript , Java**
+ - 💬 Ask me about **Front-end , Python , DBMS , C , C++ , JavaScript , OOPS , Java**
  
  - 💞️ I’m looking to contribute in projects of **frontend development**.
         
