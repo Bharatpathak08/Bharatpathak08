@@ -23,8 +23,7 @@
  - 📫 How to reach me **bharat9409pathak@gmail.com**
         
  - ⚡ Fun fact **Pronouns: He/him**
-<hr>
-
+<h1 align="center"></h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
