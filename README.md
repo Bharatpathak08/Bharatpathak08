@@ -107,7 +107,7 @@
 
 
 
-<!-- <table>
+<table>
   <tr>
   <td><img src="https://github-readme-stats.vercel.app/api?username=Bharatpathak08&show_icons=true&theme=light&locale=en" alt="jigar-sable" /></td>
             <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bharatpathak08&show_icons=true&theme=light&locale=en&layout=compact" alt="jigar-sable" /></td>
@@ -116,7 +116,7 @@
 
 <div align="center">
         <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bharatpathak08&theme=light" alt="jigar-sable" /></p> </div>
- <br>  -->
+ <br> 
 <!-- 
   
 <h3 align="left">Support:</h3>
