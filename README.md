@@ -114,15 +114,19 @@
   </tr>
 </table>
 
-<!-- <div align="center">
+ <div align="center">
         <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bharatpathak08&theme=light" alt="jigar-sable" /></p> </div>
- <br>  -->
+ <br>
+ 
 <!-- 
-  
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Ankit Kumar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Ankit Kumar" /></a></p><br>
  -->
+
+ <!-- 
+
 <h1 align="center"></h1>
 
 [![An image of @bharatpathak08's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bharatpathak08)](https://holopin.io/@bharatpathak08)
+ -->
 
